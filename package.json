@@ -1,7 +1,7 @@
 {
   "name": "hogan-cache",
   "version": "0.0.1",
-  "description": "Compile and cache Hogan templates",
+  "description": "Read, compile and cache Hogan templates",
   "main": "./index.js",
   "scripts": {
     "eslint": "eslint ./"
