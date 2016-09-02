@@ -7,7 +7,7 @@
     "eslint": "eslint ./lib"
   },
   "author": {
-    "name": "jonathan Perry for Sequence Media Limited",
+    "name": "Jonathan Perry for Sequence Media Limited",
     "email": "sequencemedia@sequencemedia.net",
     "url": "http://sequencemedia.net"
   },
