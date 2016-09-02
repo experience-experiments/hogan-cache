@@ -4,7 +4,7 @@
   "description": "Read, compile and cache Hogan templates",
   "main": "./index.js",
   "scripts": {
-    "eslint": "eslint ./"
+    "eslint": "eslint ./lib"
   },
   "author": {
     "name": "jonathan Perry for Sequence Media Limited",
@@ -13,7 +13,6 @@
   },
   "license": "UNLICENSED",
   "dependencies": {
-    "fs-extra": "^0.30.0",
     "hogan.js": "^3.0.2",
     "babel-core": "^6.10.4",
     "babel-eslint": "^6.1.0",
